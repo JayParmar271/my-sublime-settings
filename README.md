@@ -2,7 +2,7 @@
 
 1. Open Sublime, and [install Package Control](https://packagecontrol.io/installation).
 
-2. Run `Package Control: Install Package` command, and looks for [Sync Settings](Sync Settings)
+2. Run `Package Control: Install Package` command, and looks for [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
 3. Run Sync Settings: Edit User Settings
 
